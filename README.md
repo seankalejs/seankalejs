@@ -6,7 +6,7 @@
 - 📗 Currently I'm doing a master's degree in Innovation Management (also in [HSE](https://www.hse.ru/en/))
 - ✨ Usually I program in Python, but I also have experience with other languages (my tech skills are listed below)
 - 😉 You can read a bit more about me on my [website](https://ikuz.me/)
-- 📩 You can email me at [ivan.p.kuznetsov@gmail.com](mailto:ivan.p.kuznetsov@gmail.com)
+- 📩 You can email me at [ivan@ikuz.me](mailto:ivan@ikuz.me)
 
 
 
@@ -18,4 +18,4 @@
 
 ## 🤝 Connect with me
 
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-p-kuznetsov/) [![ivan.p.kuznetsov@gmail.com](https://img.shields.io/badge/ivan.p.kuznetsov@gmail.com%20-%23d4d4d4.svg?&style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:ivan.p.kuznetsov@gmail.com) [![telegram](https://img.shields.io/badge/seankalejs%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seankalejs) [![instagram](https://img.shields.io/badge/seankalejs%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seankalejs/)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-p-kuznetsov/) [![ivan@ikuz.me](https://img.shields.io/badge/ivan.p.kuznetsov@gmail.com%20-%23d4d4d4.svg?&style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:ivan.p.kuznetsov@gmail.com) [![telegram](https://img.shields.io/badge/seankalejs%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seankalejs) [![instagram](https://img.shields.io/badge/seankalejs%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seankalejs/)
