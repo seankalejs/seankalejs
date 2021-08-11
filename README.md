@@ -5,6 +5,7 @@
 - 🎓 I have a bachelor degree in Applied Mathematics and Informatics from the Higher School of Economics
 - 📗 Currently I'm doing a master's degree in Innovation Management (also in [HSE](https://www.hse.ru/en/))
 - ✨ Usually I program in Python, but I also have experience with other languages (my tech skills are listed below)
+- 😉 You can read a bit more about me on my [website](https://ikuz.me/)
 - 📩 You can email me at [ivan.p.kuznetsov@gmail.com](mailto:ivan.p.kuznetsov@gmail.com)
 
 
