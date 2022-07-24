@@ -6,6 +6,7 @@
 - 📕 I also have a Master's degree with distinction in Innovation Management from the [Higher School of Economics](https://www.hse.ru/en/)
 - ✨ Usually I program in Python, but I also have experience with other languages (my tech skills are listed below)
 - 😉 You can read a bit more about me on my [website](https://ikuz.me/)
+- 📋 You can take a look at my CV here: [ENG version](https://ikuz.me/cv_eng.pdf) or [RUS version](https://ikuz.me/cv_rus.pdf)
 - 📩 You can email me at [ivan@ikuz.me](mailto:ivan@ikuz.me)
 
 
