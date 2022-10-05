@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ivan
 
 - 🇷🇺 I live in Moscow, Russia
-- 🤓 I'm a Customer success manager in [Mindbox](https://mindbox.ru)
+- 🤓 I'm a Customer Success Manager in [Mindbox](https://mindbox.ru)
 - 🎓 I have a Bachelor's Degree in Applied Mathematics and Informatics from the [Higher School of Economics](https://www.hse.ru/en/)
 - 📕 I also have a Master's degree with distinction in Innovation Management from the [Higher School of Economics](https://www.hse.ru/en/)
 - ✨ Usually I program in Python, but I also have experience with other languages (my tech skills are listed below)
