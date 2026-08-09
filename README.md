@@ -4,7 +4,7 @@
 
 - 💼 Business Development & Growth Manager at [Mindbox](https://mindbox.ru) — SaaS for marketing automation and pricing
 - 🧰 9 years of experience: from NOC engineer to conversations with owners, CEOs and commercial directors
-- 🏢 Enterprise portfolio: retail chains, pharma, real estate, fintech — up to 20 accounts at a time, combined turnover up to ₽100 bn
+- 🏢 Enterprise portfolio: retail chains, pharma, real estate, fintech — up to 20 accounts at a time, combined annual turnover up to $1.2 bn
 - 🇷🇺 I live in Moscow, Russia
 - 🎓 BSc in Applied Mathematics and Computer Science and MSc (with distinction) in Innovation Management, [HSE University](https://www.hse.ru/en/)
 - 😉 The full story is on my website: [ikuz.me](https://ikuz.me/en/)
